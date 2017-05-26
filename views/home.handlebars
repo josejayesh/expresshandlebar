@@ -1,0 +1,13 @@
+<div class="container">
+  <h2>{{data.headline}}</h2>
+  <p>{{data.intro}}</p>
+  {{#each data.images}}
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="thumbnail">
+       <img src="{{this}}"/>
+      </div>
+    </div>
+  </div>
+  {{/each}}
+​</div>

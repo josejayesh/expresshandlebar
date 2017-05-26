@@ -1,0 +1,53 @@
+{
+  "router":[
+    "newyork",
+    "boston"
+  ],
+	"city": {
+		"newyork": {
+      "headline": "I Love New York",
+      "intro":"New York is a state in the northeastern United States, and is the 27th-most extensive, fourth-most populous, and seventh-most densely populated U.S. state. New York is bordered by New Jersey and Pennsylvania to the south and Connecticut, Massachusetts, and Vermont to the east. The state has a maritime border in the Atlantic Ocean with Rhode Island, east of Long Island, as well as an international border with the Canadian provinces of Quebec to the north and Ontario to the west and north. The state of New York, with an estimated 19.8 million residents in 2015,[4] is often referred to as New York State to distinguish it from New York City, the state's most populous city and its economic hub",
+    	"images": [
+        "https://images.pexels.com/photos/29732/pexels-photo-29732.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/37646/new-york-skyline-new-york-city-city-37646.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/25781/pexels-photo-25781.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/345162/pexels-photo-345162.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/280219/pexels-photo-280219.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/294560/pexels-photo-294560.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/299843/pexels-photo-299843.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/29732/pexels-photo-29732.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/37646/new-york-skyline-new-york-city-city-37646.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/25781/pexels-photo-25781.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/345162/pexels-photo-345162.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/280219/pexels-photo-280219.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/294560/pexels-photo-294560.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/299843/pexels-photo-299843.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/29732/pexels-photo-29732.jpg?w=1260&h=750&auto=compress&cs=tinysrgb"
+    	]
+		},
+		"boston": {
+      "headline": "I Love Boston",
+      "intro":"Boston (pronounced Listeni/ˈbɒstən/ boss-tən) is the capital and most populous city[8] of the Commonwealth of Massachusetts in the United States. Boston is also the seat of Suffolk County, although the county government was disbanded on July 1, 1999.[9] The city proper covers 48 square miles (124 km2) with an estimated population of 667,137 in 2015,[10] making it the largest city in New England and the 23rd most populous city in the United States.[2] The city is the economic and cultural anchor of a substantially larger metropolitan area known as Greater Boston, a Metropolitan Statistical Area (MSA) home to a census-estimated 4.7 million people in 2014 and ranking as the tenth-largest such area in the country.[5] Alternately, as a Combined Statistical Area (CSA), this wider commuting region is home to some 8.1 million people, making it the sixth-largest as such in the United States.",
+    	"images": [
+        "https://images.pexels.com/photos/37646/new-york-skyline-new-york-city-city-37646.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/25781/pexels-photo-25781.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/345162/pexels-photo-345162.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/280219/pexels-photo-280219.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/294560/pexels-photo-294560.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/299843/pexels-photo-299843.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/29732/pexels-photo-29732.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/37646/new-york-skyline-new-york-city-city-37646.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/25781/pexels-photo-25781.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/345162/pexels-photo-345162.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/280219/pexels-photo-280219.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/294560/pexels-photo-294560.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/299843/pexels-photo-299843.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"
+    	]
+		}
+
+	}
+}

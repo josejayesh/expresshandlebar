@@ -1,0 +1,21 @@
+{
+  "name": "expresshandlebar",
+  "version": "1.0.0",
+  "description": "Express Handlebar example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Handlebar"
+  ],
+  "author": "Jayesh Jose <<josejayesh@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars-helper-equal": "^1.0.0",
+    "hbs": "^4.0.1"
+  }
+}
